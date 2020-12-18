@@ -2,8 +2,8 @@
 layout: post
 title: "Ray of Enfeeblement"
 date: 2015-07-30
-sources: [PHB.271]
-tags: [cleric (death), warlock, wizard, level2, necromancy]
+sources: [PHB.271, SRD.174]
+tags: [cleric (death), cleric (grave), warlock, wizard, level2, necromancy]
 ---
 
 **2nd-level necromancy**

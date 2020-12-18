@@ -2,8 +2,13 @@
 layout: post
 title:  "Hold Person"
 date:   2014-12-31
+<<<<<<< HEAD
 sources: [PHB.251]
 tags: [bard, cleric, druid, monk (four elements), paladin (conquest, vengeance), sorcerer, warlock, wizard, level2, enchantment]
+=======
+sources: [PHB.251, SRD.154]
+tags: [bard, cleric, druid, monk (four elements), paladin (conquest), paladin (redemption), paladin (vengeance), sorcerer, warlock, wizard, level2, enchantment]
+>>>>>>> ee57289a7fc6a1312901c9d9ee48a282de5fcd47
 ---
 
 **2nd-level enchantment**

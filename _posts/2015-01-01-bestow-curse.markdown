@@ -2,8 +2,13 @@
 layout: post
 title:  "Bestow Curse"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.218]
 tags: [bard, cleric, paladin (conquest, oathbreaker), wizard, level3, necromancy]
+=======
+sources: [PHB.218, SRD.121]
+tags: [bard, cleric, paladin (conquest), paladin (oathbreaker), wizard, level3, necromancy]
+>>>>>>> ee57289a7fc6a1312901c9d9ee48a282de5fcd47
 ---
 
 **3rd-level necromancy**

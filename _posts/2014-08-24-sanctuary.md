@@ -2,8 +2,8 @@
 layout: post
 title:  "Sanctuary"
 date:   2014-08-24
-sources: [PHB.272]
-tags: [cleric, paladin (devotion), level1, abjuration]
+sources: [PHB.272, SRD.176]
+tags: [cleric, paladin (devotion), paladin (redemption), level1, abjuration]
 ---
 
 **1st-level abjuration**

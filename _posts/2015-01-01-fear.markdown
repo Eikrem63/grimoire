@@ -2,7 +2,11 @@
 layout: post
 title:  "Fear"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.239]
+=======
+sources: [PHB.239, SRD.142]
+>>>>>>> ee57289a7fc6a1312901c9d9ee48a282de5fcd47
 tags: [bard, paladin (conquest), sorcerer, warlock, wizard, level3, illusion]
 ---
 

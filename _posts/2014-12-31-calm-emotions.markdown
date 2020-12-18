@@ -2,8 +2,8 @@
 layout: post
 title:  "Calm Emotions"
 date:   2014-12-31
-sources: [PHB.221]
-tags: [bard, cleric, warlock (fae), level2, enchantment]
+sources: [PHB.221, SRD.123]
+tags: [bard, cleric, paladin (redemption), warlock (fae), level2, enchantment]
 ---
 
 **2nd-level enchantment**
