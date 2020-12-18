@@ -2,8 +2,13 @@
 layout: post
 title: "Forbiddance"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.243, SRD.146]
 tags: [cleric, level6, ritual, abjuration]
+=======
+source: PHB.243
+tags: [cleric, level6, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **6th-level abjuration (ritual)**
@@ -16,7 +21,11 @@ tags: [cleric, level6, ritual, abjuration]
 
 **Duration**: 1 day
 
+<<<<<<< HEAD
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the *[Gate](gate)* spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the *[Plane Shift](plane-shift)* spell.
+=======
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the *[gate](gate/ "gate (lvl 9)")* spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the *[plane shift](plane-shift "plane shift (lvl 7)")* spell.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell’s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or necrotic damage (your choice when you cast this spell).
 

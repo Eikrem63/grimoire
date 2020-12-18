@@ -2,8 +2,13 @@
 layout: post
 title:  "Hypnotic Pattern"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.252, SRD.155]
 tags: [bard, paladin (redemption), sorcerer, warlock, wizard, level3, illusion]
+=======
+source: PHB.252
+tags: [bard, sorcerer, warlock, wizard, level3, illusion]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level illusion**

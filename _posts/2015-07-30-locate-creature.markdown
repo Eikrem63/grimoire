@@ -2,7 +2,11 @@
 layout: post
 title: "Locate Creature"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.256, SRD.159]
+=======
+source: PHB.256
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4, divination]
 ---
 
@@ -18,6 +22,10 @@ tags: [bard, cleric, druid, paladin, ranger, wizard, level4, divination]
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature’s location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
+<<<<<<< HEAD
 The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close—-within 30 feet-—at least once. If the creature you described or named is in a different form, such as being under the effects of a *[Polymorph](polymorph)* spell, this spell doesn’t locate the creature.
+=======
+The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close-—within 30 feet-—at least once. If the creature you described or named is in a different form, such as being under the effects of a *[polymorph](polymorph "polymorph (lvl 4)")* spell, this spell doesn’t locate the creature.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 This spell can’t locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.

@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Watery Sphere"
+<<<<<<< HEAD
 date: 2015-11-19
 sources: [EE.23, Xanathar.170]
+=======
+date:   2015-11-19
+source: EE.23
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, sorcerer, wizard, level4, conjuration]
 ---
 
@@ -16,9 +21,15 @@ tags: [druid, sorcerer, wizard, level4, conjuration]
 
 **Duration**: Concentration, up to 1 minute
 
+<<<<<<< HEAD
 You conjure up a sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell’s duration.
 
 Any creature in the sphere’s space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature’s choice outside it. A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the saving throw, ending the effect on itself on a success.
+=======
+You conjure up a sphere of water with a 10-foot radius on a point you can see within range. The sphere can hover in the air, but no more than 10 feet off the ground. The sphere remains for the spell's duration.
+
+Any creature in the sphere's space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space outside it. A Huge or larger creature succeeds on the saving throw automatically. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the saving throw.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.
 

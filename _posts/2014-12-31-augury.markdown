@@ -2,8 +2,13 @@
 layout: post
 title:  "Augury"
 date:   2014-12-31
+<<<<<<< HEAD:_posts/2014-12-31-augury.markdown
 sources: [PHB.215, SRD.120]
 tags: [cleric, cleric (knowledge), level2, ritual, divination]
+=======
+source: PHB.215
+tags: [cleric, level2, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-12-31-augury.md
 ---
 
 **2nd-level divination (ritual)**
@@ -21,8 +26,8 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 * *Weal*, for good results
 * *Woe*, for bad results
 * *Weal and woe*, for both good and bad results
-* *Nothing*, for results that aren’t especially good or bad
+* *Nothing*, for results that aren't especially good or bad
 
-The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
+The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.

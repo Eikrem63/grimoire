@@ -2,7 +2,11 @@
 layout: post
 title:  "Delayed Blast Fireball"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.230, SRD.133]
+=======
+source: PHB.230
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [sorcerer, wizard, level7, evocation]
 ---
 

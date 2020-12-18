@@ -2,7 +2,11 @@
 layout: post
 title:  "True Strike"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.284, SRD.189]
+=======
+source: PHB.284
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, sorcerer, warlock, wizard, cantrip, divination]
 ---
 

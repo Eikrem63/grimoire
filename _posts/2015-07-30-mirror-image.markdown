@@ -2,8 +2,13 @@
 layout: post
 title: "Mirror Image"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.260, SRD.165]
 tags: [cleric (trickery), druid (coast), sorcerer, warlock, wizard, level2, illusion]
+=======
+source: PHB.260
+tags: [sorcerer, warlock, wizard, level2, illusion]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level illusion**

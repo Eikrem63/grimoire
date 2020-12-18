@@ -2,8 +2,13 @@
 layout: post
 title:  "Confusion"
 date:   2015-01-05
+<<<<<<< HEAD
 sources: [PHB.224, SRD.127]
 tags: [bard, cleric (knowledge), druid, paladin (oathbreaker), sorcerer, wizard, level4, enchantment]
+=======
+source: PHB.224
+tags: [bard, druid, sorcerer, wizard, level4, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level enchantment**

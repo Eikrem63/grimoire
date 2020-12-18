@@ -2,8 +2,13 @@
 layout: post
 title: "Rary’s Telepathic Bond"
 date:  2015-07-30
+<<<<<<< HEAD
 sources: [PHB.270]
 tags:  [wizard, level5, ritual, divination]
+=======
+source: PHB.270
+tags:  [wizard, level5, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level divination (ritual)**
@@ -16,6 +21,10 @@ tags:  [wizard, level5, ritual, divination]
 
 **Duration**: 1 hour
 
+<<<<<<< HEAD
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren’t affected by this spell.
+=======
+You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
-Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can’t extend to other planes of existence.
+Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.

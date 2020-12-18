@@ -2,8 +2,13 @@
 layout: post
 title:  "Lesser Restoration"
 date:   2014-12-31
+<<<<<<< HEAD
 sources: [PHB.255, SRD.158]
 tags: [artificer, bard, cleric, druid, paladin, ranger, level2, abjuration]
+=======
+source: PHB.255
+tags: [bard, cleric, druid, paladin, ranger, level2, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level abjuration**

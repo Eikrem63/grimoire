@@ -2,8 +2,13 @@
 layout: post
 title:  "Mass Healing Word"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.258, SRD.163]
 tags: [artificer (alchemist), cleric, level3, evocation]
+=======
+source: PHB.258
+tags: [cleric, level3, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level evocation**

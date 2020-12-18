@@ -2,8 +2,13 @@
 layout: post
 title: "Suggestion"
 date: 2015-05-11
+<<<<<<< HEAD
 sources: [PHB.279, SRD.183]
 tags: [bard, cleric (knowledge), sorcerer, warlock, wizard, level2, enchantment]
+=======
+source: PHB.279
+tags: [bard, sorcerer, warlock, wizard, level2, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level enchantment**

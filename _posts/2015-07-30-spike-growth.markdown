@@ -2,8 +2,13 @@
 layout: post
 title: "Spike Growth"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.277, SRD.182]
 tags: [cleric (nature), druid, ranger, level2, transmutation]
+=======
+source: PHB.277
+tags: [druid, ranger, level2, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level transmutation**

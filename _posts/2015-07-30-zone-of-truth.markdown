@@ -2,7 +2,11 @@
 layout: post
 title: "Zone of Truth"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.289, SRD.193]
+=======
+source: PHB.289
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, cleric, paladin, level2, enchantment]
 ---
 

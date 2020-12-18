@@ -2,8 +2,13 @@
 layout: post
 title: "Antilife Shell"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.213, SRD.116]
 tags: [cleric (death), cleric (grave), druid, level5, abjuration]
+=======
+source: PHB.213
+tags: [druid, level5, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level abjuration**

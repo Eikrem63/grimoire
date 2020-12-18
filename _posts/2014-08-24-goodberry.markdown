@@ -2,7 +2,11 @@
 layout: post
 title:  "Goodberry"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.246, SRD.150]
+=======
+source: PHB.246
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, ranger, level1, transmutation]
 ---
 

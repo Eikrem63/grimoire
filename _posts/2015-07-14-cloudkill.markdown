@@ -3,6 +3,7 @@ layout: post
 title: "Cloudkill"
 date: 2015-07-14
 <<<<<<< HEAD
+<<<<<<< HEAD
 sources: [PHB.222]
 =======
 sources: [PHB.222, SRD.125]
@@ -12,6 +13,10 @@ tags: [cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, 
 =======
 tags: [artificer (alchemist), cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, level5, conjuration]
 >>>>>>> 684ca8c8e0de816f25b91529678c80560d1728ea
+=======
+source: PHB.222
+tags: [sorcerer, wizard, level5, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level conjuration**

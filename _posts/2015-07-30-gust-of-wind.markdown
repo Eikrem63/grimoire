@@ -2,8 +2,13 @@
 layout: post
 title: "Gust of Wind"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.248, SRD.152]
 tags: [cleric (tempest), druid, monk (four elements), sorcerer, wizard, level2, evocation]
+=======
+source: PHB.248
+tags: [sorcerer, wizard, druid, level2, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level evocation**

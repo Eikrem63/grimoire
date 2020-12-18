@@ -2,8 +2,13 @@
 layout: post
 title:  "Tasha’s Hideous Laughter"
 date:   2014-08-24
+<<<<<<< HEAD:_posts/2014-08-24-tashas-hideous-laughter.markdown
 sources: [PHB.280]
 tags: [bard, warlock (great old one), wizard, level1, enchantment]
+=======
+source: PHB.280
+tags: [bard, wizard, level1, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-08-24-tashas-hideous-laughter.md
 ---
 
 **1st-level enchantment**

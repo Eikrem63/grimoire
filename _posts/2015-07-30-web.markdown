@@ -2,8 +2,13 @@
 layout: post
 title: "Web"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.287, SRD.192]
 tags: [artificer, druid (underdark), sorcerer, wizard, level2, conjuration]
+=======
+source: PHB.287
+tags: [sorcerer, wizard, level2, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level conjuration**

@@ -2,8 +2,13 @@
 layout: post
 title: "Enlarge/Reduce"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.237, SRD.140]
 tags: [artificer, sorcerer, wizard, level2, transmutation]
+=======
+source: PHB.237
+tags: [sorcerer, wizard, level2, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level transmutation**

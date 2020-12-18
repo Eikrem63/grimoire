@@ -2,8 +2,13 @@
 layout: post
 title: "Protection from Poison"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.270, SRD.173]
 tags: [artificer, cleric, ranger, paladin, druid, level2, abjuration]
+=======
+source: PHB.270
+tags: [cleric, ranger, paladin, druid, level2, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level abjuration**

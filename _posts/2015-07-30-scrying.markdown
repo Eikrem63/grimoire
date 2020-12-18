@@ -2,8 +2,13 @@
 layout: post
 title: "Scrying"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.273, SRD.176]
 tags: [bard, cleric, druid, paladin (devotion), paladin (vengeance), warlock, wizard, level5, divination]
+=======
+source: PHB.273
+tags: [bard, cleric, druid, warlock, wizard, level5, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level divination**
@@ -32,4 +37,4 @@ You can see and hear a particular creature you choose that is on the same plane 
 
 On a successful save, the target isn’t affected, and you can’t use this spell against it again for 24 hours. On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
 
-Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn’t move.
+Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.

@@ -2,8 +2,13 @@
 layout: post
 title: "Fabricate"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.239, SRD.141]
 tags: [artificer, cleric (forge), wizard, level4, transmutation]
+=======
+source: PHB.239
+tags: [wizard, level4, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level transmutation**

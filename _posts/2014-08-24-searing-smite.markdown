@@ -2,8 +2,13 @@
 layout: post
 title:  "Searing Smite"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.274]
 tags: [cleric (forge), paladin, level1, evocation]
+=======
+source: PHB.274
+tags: [paladin, level1, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **1st-level evocation**

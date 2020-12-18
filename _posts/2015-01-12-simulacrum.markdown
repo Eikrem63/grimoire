@@ -2,7 +2,11 @@
 layout: post
 title:  "Simulacrum"
 date:   2015-01-12
+<<<<<<< HEAD
 sources: [PHB.276, SRD.180]
+=======
+source: PHB.276
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [wizard, level7, illusion]
 ---
 

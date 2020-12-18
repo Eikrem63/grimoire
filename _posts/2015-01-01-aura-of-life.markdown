@@ -2,8 +2,13 @@
 layout: post
 title:  "Aura of Life"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.216]
 tags: [paladin, warlock (undying), level4, abjuration]
+=======
+source: PHB.216
+tags: [paladin, level4, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level abjuration**

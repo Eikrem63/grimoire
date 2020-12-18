@@ -2,7 +2,11 @@
 layout: post
 title:  "Holy Aura"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.251, SRD.155]
+=======
+source: PHB.251
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [cleric, level8, abjuration]
 ---
 
@@ -12,7 +16,11 @@ tags:   [cleric, level8, abjuration]
 
 **Range**: Self
 
+<<<<<<< HEAD
 **Components**: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint’s robe or a piece of parchment from a religious text)
+=======
+**Components**: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 **Duration**: Concentration, up to 1 minute
 

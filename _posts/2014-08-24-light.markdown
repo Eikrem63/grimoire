@@ -2,8 +2,13 @@
 layout: post
 title:  "Light"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.255, SRD.159]
 tags: [artificer, bard, cleric, sorcerer, wizard, cantrip, evocation]
+=======
+source: PHB.255
+tags: [bard, cleric, sorcerer, wizard, cantrip, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Evocation cantrip**

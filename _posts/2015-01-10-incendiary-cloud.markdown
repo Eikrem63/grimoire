@@ -2,7 +2,11 @@
 layout: post
 title:  "Incendiary Cloud"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.253, SRD.157]
+=======
+source: PHB.253
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [sorcerer, wizard, level8, conjuration]
 ---
 

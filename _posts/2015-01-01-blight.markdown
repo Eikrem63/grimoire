@@ -2,8 +2,13 @@
 layout: post
 title:  "Blight"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.219, SRD.122]
 tags: [artificer (alchemist), cleric (death), cleric (grave), druid, paladin (oathbreaker), sorcerer, warlock, wizard, level4, necromancy]
+=======
+source: PHB.219
+tags: [druid, sorcerer, warlock, wizard, level4, necromancy]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level necromancy**
@@ -22,4 +27,4 @@ If you target a plant creature or a magical plant, it makes the saving throw wit
 
 If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level of higher, the damage increases by 1d8 for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.

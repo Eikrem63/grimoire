@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Wall of Sand"
+<<<<<<< HEAD
 date: 2015-11-22
 sources: [EE.23, Xanathar.170]
+=======
+date:   2015-11-22
+source: EE.23
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [wizard, level3, evocation]
 ---
 
@@ -16,4 +21,8 @@ tags: [wizard, level3, evocation]
 
 **Duration**: Concentration, up to 10 minutes
 
+<<<<<<< HEAD
 You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall’s space and must spend 3 feet of movement for every 1 foot it moves there.
+=======
+You conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 3 feet of movement for every 1 foot it moves there.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366

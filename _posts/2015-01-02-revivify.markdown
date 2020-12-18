@@ -2,8 +2,13 @@
 layout: post
 title:  "Revivify"
 date:   2015-01-02
+<<<<<<< HEAD
 sources: [PHB.272, SRD.175]
 tags: [artificer, cleric, paladin, level3, necromancy]
+=======
+source: PHB.272
+tags: [cleric, paladin, level3, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level necromancy**
@@ -16,4 +21,4 @@ tags: [artificer, cleric, paladin, level3, necromancy]
 
 **Duration**: Instantaneous
 
-You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
+You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.

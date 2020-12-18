@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Beast Bond"
+<<<<<<< HEAD
 date: 2015-11-12
 sources: [EE.15, Xanathar.150]
+=======
+date:   2015-11-12
+source: EE.15
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, ranger, level1, divination]
 ---
 
@@ -16,4 +21,4 @@ tags: [druid, ranger, level1, divination]
 
 **Duration**: Concentration, up to 10 minutes
 
-You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
+You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.

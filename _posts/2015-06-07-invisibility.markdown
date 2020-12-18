@@ -2,8 +2,13 @@
 layout: post
 title: "Invisibility"
 date: 2015-06-07
+<<<<<<< HEAD
 sources: [PHB.254, SRD.157]
 tags: [artificer, bard, druid (grassland), sorcerer, warlock, wizard, level2, illusion]
+=======
+source: PHB.254
+tags: [bard, sorcerer, warlock, wizard, level2, illusion]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level illusion**

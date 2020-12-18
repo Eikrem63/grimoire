@@ -2,7 +2,11 @@
 layout: post
 title:  "Demiplane"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.231, SRD.134]
+=======
+source: PHB.231
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [warlock, wizard, level8, conjuration]
 ---
 

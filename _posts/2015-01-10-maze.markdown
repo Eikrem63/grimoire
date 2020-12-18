@@ -2,7 +2,11 @@
 layout: post
 title:  "Maze"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.258, SRD.163]
+=======
+source: PHB.258
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [wizard, level8, conjuration]
 ---
 

@@ -2,7 +2,11 @@
 layout: post
 title: "Planar Binding"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.265, SRD.168]
+=======
+source: PHB.265
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, cleric, druid, wizard, level5, abjuration]
 ---
 

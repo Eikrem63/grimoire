@@ -2,7 +2,11 @@
 layout: post
 title:  "Tsunami"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.284]
+=======
+source: PHB.284
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [druid, level8, conjuration]
 ---
 

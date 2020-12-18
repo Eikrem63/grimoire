@@ -2,8 +2,13 @@
 layout: post
 title:  "Thorn Whip"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.282]
 tags: [artificer, druid, cantrip, transmutation]
+=======
+source: PHB.282
+tags: [druid, cantrip, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Transmutation cantrip**

@@ -2,8 +2,13 @@
 layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.242, SRD.145]
 tags: [artificer (alchemist), cleric (light), druid, wizard, level2, conjuration]
+=======
+source: PHB.242
+tags: [druid, wizard, level2, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level conjuration**

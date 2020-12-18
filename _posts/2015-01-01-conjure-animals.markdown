@@ -2,7 +2,11 @@
 layout: post
 title:  "Conjure Animals"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.225, SRD.127]
+=======
+source: PHB.225
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, ranger, level3, conjuration]
 ---
 
@@ -25,8 +29,8 @@ You summon fey spirits that take the form of beasts and appear in unoccupied spa
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
-The DM has the creatures’ statistics.
+The DM has the creatures' statistics.
 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level
+**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level.

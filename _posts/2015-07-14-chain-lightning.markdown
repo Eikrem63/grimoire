@@ -2,7 +2,11 @@
 layout: post
 title: "Chain Lightning"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.221, SRD.124]
+=======
+source: PHB.221
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level6, evocation]
 ---
 

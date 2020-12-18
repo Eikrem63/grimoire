@@ -2,8 +2,13 @@
 layout: post
 title: "Enhance Ability"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.237, SRD.139]
 tags: [artificer, bard, cleric, druid, sorcerer, level2, transmutation]
+=======
+source: PHB.237
+tags: [bard, cleric, druid, sorcerer, level2, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level transmutation**

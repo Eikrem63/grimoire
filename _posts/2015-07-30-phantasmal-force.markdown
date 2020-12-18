@@ -2,8 +2,13 @@
 layout: post
 title: "Phantasmal Force"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.264]
 tags: [bard, sorcerer, warlock (fae), warlock (great old one), wizard, level2, illusion]
+=======
+source: PHB.264
+tags: [bard, sorcerer, wizard, level2, illusion]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level illusion**

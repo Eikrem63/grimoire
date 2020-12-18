@@ -2,8 +2,13 @@
 layout: post
 title:  "Poison Spray"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.266, SRD.169]
 tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, conjuration]
+=======
+source: PHB.266
+tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Conjuration cantrip**

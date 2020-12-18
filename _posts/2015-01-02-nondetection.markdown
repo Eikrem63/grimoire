@@ -2,8 +2,13 @@
 layout: post
 title:  "Nondetection"
 date:   2015-01-02
+<<<<<<< HEAD
 sources: [PHB.263, SRD.167]
 tags: [bard, cleric (knowledge), ranger, wizard, level3, abjuration]
+=======
+source: PHB.263
+tags: [bard, cleric, ranger, level3, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level abjuration**
@@ -16,4 +21,4 @@ tags: [bard, cleric (knowledge), ranger, wizard, level3, abjuration]
 
 **Duration**: 8 hours
 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.
+For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.

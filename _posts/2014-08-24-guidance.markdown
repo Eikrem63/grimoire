@@ -2,8 +2,13 @@
 layout: post
 title:  "Guidance"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.248, SRD.151]
 tags: [artificer, cleric, druid, cantrip, divination]
+=======
+source: PHB.248
+tags: [cleric, druid, cantrip, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Divination cantrip**

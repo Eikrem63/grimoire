@@ -2,8 +2,13 @@
 layout: post
 title:  "Charm Person"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.221, SRD.124]
 tags: [bard, cleric (trickery), druid, sorcerer, warlock, wizard, level1, enchantment]
+=======
+source: PHB.221
+tags: [bard, cleric, druid, sorcerer, warlock, wizard, level1, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **1st-level enchantment**

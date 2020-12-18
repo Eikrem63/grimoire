@@ -1,9 +1,15 @@
 ---
 layout: post
 title:  "Transmute Rock"
+<<<<<<< HEAD
 date: 2015-11-19
 sources: [EE.22, Xanathar.169]
 tags: [artificer, druid, wizard, level5, transmutation]
+=======
+date:   2015-11-19
+source: EE.22
+tags: [druid, wizard, level5, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level transmutation**
@@ -18,10 +24,18 @@ tags: [artificer, druid, wizard, level5, transmutation]
 
 You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.
 
+<<<<<<< HEAD
 **Transmute Rock to Mud.** Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell’s duration.
+=======
+**Transmute Rock to Mud.** Nonmagical rock of any sort in the area becomes an equal volume of thick and flowing mud that remains for the spell's duration.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 The ground in the spell’s area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud.
 
 If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
+<<<<<<< HEAD
 **Transmute Mud to Rock.** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell’s duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and is immune to poison and psychic damage.
+=======
+**Transmute Mud to Rock.** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a failed save, a creature becomes restrained by the rock. The restrained creature can use an action to try to break free by succeeding on a Strength check (DC 20) or by dealing 25 damage to the rock around it. On a successful save, a creature is shunted safely to the surface to an unoccupied space.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366

@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Bones of the Earth"
+<<<<<<< HEAD
 date: 2015-11-19
 sources: [EE.15, Xanathar.150]
+=======
+date:   2015-11-19
+source: EE.15
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, level6, transmutation]
 ---
 
@@ -20,6 +25,10 @@ You cause up to six pillars of stone to burst from places on the ground that you
 
 If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
 
+<<<<<<< HEAD
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+=======
+If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's saving throw DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.

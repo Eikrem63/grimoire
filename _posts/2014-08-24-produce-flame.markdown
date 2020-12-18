@@ -2,8 +2,13 @@
 layout: post
 title:  "Produce Flame"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.269, SRD.172]
 tags: [genasi (fire), druid, cantrip, conjuration]
+=======
+source: PHB.269
+tags: [druid, cantrip, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Conjuration cantrip**

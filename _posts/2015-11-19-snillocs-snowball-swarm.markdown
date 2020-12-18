@@ -1,8 +1,14 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Snilloc’s Snowball Swarm"
 date: 2015-11-19
 sources: [EE.22, Xanathar.165]
+=======
+title:  "Snilloc's Snowball Swarm"
+date:   2015-11-19
+source: EE.22
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level2, evocation]
 ---
 

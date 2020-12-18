@@ -2,7 +2,11 @@
 layout: post
 title: "Forcecage"
 date: 2015-01-11
+<<<<<<< HEAD
 sources: [PHB.243, SRD.147]
+=======
+source: PHB.243
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, warlock, wizard, level7, evocation]
 ---
 
@@ -26,4 +30,8 @@ When you cast the spell, any creature that is completely inside the cage’s are
 
 A creature inside the cage can’t leave it by nonmagical means. If a creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can’t exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
+<<<<<<< HEAD
 This spell can’t be dispelled by *[Dispel Magic](dispel-magic)*.
+=======
+This spell can't be dispelled by _[dispel magic](dispel-magic "dispel magic (lvl 3)")_.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366

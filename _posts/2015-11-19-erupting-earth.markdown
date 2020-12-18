@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Erupting Earth"
+<<<<<<< HEAD
 date: 2015-11-19
 sources: [EE.17, Xanathar.155]
+=======
+date:   2015-11-19
+source: EE.17
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, sorcerer, wizard, level3, transmutation]
 ---
 

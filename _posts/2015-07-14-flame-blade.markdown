@@ -2,7 +2,11 @@
 layout: post
 title: "Flame Blade"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.242, SRD.145]
+=======
+source: PHB.242
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, level2, evocation]
 ---
 

@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Control Flames"
+<<<<<<< HEAD
 date: 2015-11-11
 sources: [EE.16, Xanathar.152]
+=======
+date:   2015-11-11
+source: EE.16
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 ---
 
@@ -18,7 +23,14 @@ tags: [druid, sorcerer, wizard, cantrip, transmutation]
 
 You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
 
+<<<<<<< HEAD
  * You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+=======
+* You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+* You instantaneously extinguish the flames within the cube.
+* You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
+* You cause simple shapes -- such as the vague form of a creature, an inanimate object, or a location -- to appear within the flames and animate as you like. The shapes last for 1 hour.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
  * You instantaneously extinguish the flames within the cube.
 

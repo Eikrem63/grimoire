@@ -2,8 +2,13 @@
 layout: post
 title: "Guardian of Faith"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.246, SRD.150]
 tags: [cleric, paladin (devotion), paladin (crown), level4, conjuration]
+=======
+source: PHB.246
+tags: [cleric, level4, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level conjuration**

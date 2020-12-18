@@ -2,8 +2,13 @@
 layout: post
 title:  "Clairvoyance"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.222, SRD.124]
 tags: [bard, cleric, sorcerer, warlock (great old one), wizard, level3, divination]
+=======
+source: PHB.222
+tags: [bard, cleric, sorcerer, wizard, level3, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level divination**
@@ -16,8 +21,12 @@ tags: [bard, cleric, sorcerer, warlock (great old one), wizard, level3, divinati
 
 **Duration**: Concentration, up to 10 minutes
 
-You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.
+You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.
 
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 
+<<<<<<< HEAD
 A creature that can see the sensor (such as a creature benefiting from *[See Invisibility](see-invisibility)* or *[True Seeing](true-seeing)* sees a luminous, intangible orb about the size of your fist.
+=======
+A creature that can see the sensor (such as a creature benefiting from *[see invisibility](see-invisibility "see invisibility (lvl 2)")* or *[truesight](truesight)* sees a luminous, intangible orb about the size of your fist.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366

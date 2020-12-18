@@ -2,8 +2,13 @@
 layout: post
 title: "Commune with Nature"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.224, SRD.126]
 tags: [barbarian (totem warrior), druid, paladin (ancients), ranger, level5, ritual, divination]
+=======
+source: PHB.224
+tags: [druid, ranger, level5, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level divination (ritual)**

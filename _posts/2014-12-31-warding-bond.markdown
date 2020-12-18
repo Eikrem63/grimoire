@@ -2,8 +2,13 @@
 layout: post
 title:  "Warding Bond"
 date:   2014-12-31
+<<<<<<< HEAD:_posts/2014-12-31-warding-bond.markdown
 sources: [PHB.287, SRD.191]
 tags: [artificer (battle smith), cleric, paladin (crown), level2, abjuration]
+=======
+source: PHB.287
+tags: [cleric, level2, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-12-31-warding-bond.md
 ---
 
 **2nd-level abjuration**

@@ -2,8 +2,13 @@
 layout: post
 title: "Lightning Bolt"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.255, SRD.159]
 tags: [druid (mountain), sorcerer, wizard, level3, evocation]
+=======
+source: PHB.255
+tags: [sorcerer, wizard, level3, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level evocation**

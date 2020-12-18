@@ -2,7 +2,11 @@
 layout: post
 title:  "Power Word Stun"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.267, SRD.170]
+=======
+source: PHB.267
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [bard, sorcerer, warlock, wizard, level8, enchantment]
 ---
 

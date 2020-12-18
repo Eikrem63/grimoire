@@ -2,7 +2,11 @@
 layout: post
 title:  "Etherealness"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.238, SRD.140]
+=======
+source: PHB.238
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation]
 ---
 

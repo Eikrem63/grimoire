@@ -2,7 +2,11 @@
 layout: post
 title: "Awaken"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.216, SRD.120]
+=======
+source: PHB.216
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, druid, level5, transmutation]
 ---
 

@@ -3,11 +3,16 @@ layout: post
 title: "Dominate Beast"
 date: 2015-07-14
 <<<<<<< HEAD
+<<<<<<< HEAD
 sources: [PHB.234]
 =======
 sources: [PHB.234, SRD.137]
 >>>>>>> ee57289a7fc6a1312901c9d9ee48a282de5fcd47
 tags: [cleric (nature), druid, paladin (conquest), warlock (fae), warlock (great old one), sorcerer, level4, enchantment]
+=======
+source: PHB.234
+tags: [druid, sorcerer, level4, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level enchantment**

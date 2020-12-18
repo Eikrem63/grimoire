@@ -2,8 +2,13 @@
 layout: post
 title:  "Arcane Lock"
 date:   2015-01-02
+<<<<<<< HEAD
 sources: [PHB.215, SRD.118]
 tags: [artificer, wizard, level2, abjuration]
+=======
+source: PHB.215
+tags: [wizard, level2, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level abjuration**

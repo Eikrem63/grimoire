@@ -2,7 +2,11 @@
 layout: post
 title: "Geas"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.245, SRD.148]
+=======
+source: PHB.245
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [cleric, wizard, paladin, druid, bard, level5, enchantment]
 ---
 
@@ -20,6 +24,10 @@ You place a magical command on a creature that you can see within range, forcing
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. 
 
+<<<<<<< HEAD
 You can end the spell early by using an action to dismiss it. A *[Remove Curse](remove-curse)*, *[Greater Restoration](greater-restoration)*, or *[Wish](wish)* spell also ends it.
+=======
+You can end the spell early by using an action to dismiss it. A *[remove curse](remove-curse "remove curse (lvl 3)")*, *[greater restoration](greater-restoration "greater restoration (lvl 5)")*, or *[wish](wish "wish (lvl 9)")* spell also ends it.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.

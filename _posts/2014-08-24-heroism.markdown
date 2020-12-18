@@ -2,8 +2,13 @@
 layout: post
 title:  "Heroism"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.250, SRD.154]
 tags: [artificer (battle smith), bard, paladin, level1, enchantment]
+=======
+source: PHB.250
+tags: [bard, paladin, level1, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **1st-level enchantment**

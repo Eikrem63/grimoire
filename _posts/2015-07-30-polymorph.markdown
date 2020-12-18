@@ -2,8 +2,13 @@
 layout: post
 title: "Polymorph"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.266, SRD.169]
 tags: [bard, cleric (trickery), druid, sorcerer, wizard, level4, transmutation]
+=======
+source: PHB.266
+tags: [bard, druid, sorcerer, wizard, level4, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level transmutation**
@@ -18,7 +23,11 @@ tags: [bard, cleric (trickery), druid, sorcerer, wizard, level4, transmutation]
 
 This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
 
+<<<<<<< HEAD
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
+=======
+The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality. 
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form.
 

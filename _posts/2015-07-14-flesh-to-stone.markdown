@@ -2,7 +2,11 @@
 layout: post
 title: "Flesh to Stone"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.243, SRD.145]
+=======
+source: PHB.243
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [warlock, wizard, level6, transmutation]
 ---
 

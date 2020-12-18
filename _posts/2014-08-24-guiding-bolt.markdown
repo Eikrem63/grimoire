@@ -2,7 +2,11 @@
 layout: post
 title:  "Guiding Bolt"
 date:   2014-08-24
+<<<<<<< HEAD:_posts/2014-08-24-guiding-bolt.markdown
 sources: [PHB.248, SRD.151]
+=======
+source: PHB.248
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-08-24-guiding-bolt.md
 tags: [cleric, level1, evocation]
 ---
 

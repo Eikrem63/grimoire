@@ -2,7 +2,11 @@
 layout: post
 title: "Move Earth"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.263, SRD.166]
+=======
+source: PHB.263
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, sorcerer, wizard, level6, transmutation]
 ---
 
@@ -20,6 +24,10 @@ Choose an area of terrain no larger than 40 feet on a side within range. You can
 
 At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.
 
+<<<<<<< HEAD
 Because the terrain’s transformation occurs slowly, creatures in the area can’t usually be trapped or injured by the ground’s movement. This spell can’t manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
+=======
+Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement. This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 Similarly, this spell doesn’t directly affect plant growth. The moved earth carries any plants along with it.

@@ -2,8 +2,13 @@
 layout: post
 title:  "Dimension Door"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.233, SRD.135]
 tags: [bard, cleric (trickery), paladin (vengeance), sorcerer, warlock, wizard, level4, conjuration]
+=======
+source: PHB.233
+tags: [bard, sorcerer, warlock, wizard, level4, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level conjuration**

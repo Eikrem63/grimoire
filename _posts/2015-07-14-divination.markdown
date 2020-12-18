@@ -2,8 +2,13 @@
 layout: post
 title: "Divination"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.234, SRD.136]
 tags: [cleric, druid (forest), druid (grassland), level4, ritual, divination]
+=======
+source: PHB.234
+tags: [cleric, level4, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level divination (ritual)**

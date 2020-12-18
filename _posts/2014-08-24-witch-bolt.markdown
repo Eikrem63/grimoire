@@ -2,7 +2,11 @@
 layout: post
 title:  "Witch Bolt"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.289]
+=======
+source: PHB.289
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, warlock, wizard, level1, evocation]
 ---
 

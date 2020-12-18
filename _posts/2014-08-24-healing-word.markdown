@@ -2,8 +2,13 @@
 layout: post
 title:  "Healing Word"
 date:   2014-08-24
+<<<<<<< HEAD:_posts/2014-08-24-healing-word.markdown
 sources: [PHB.250, SRD.153]
 tags: [artificer (alchemist), bard, cleric, druid, level1, evocation]
+=======
+source: PHB.250
+tags: [bard, cleric, druid, level1, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-08-24-healing-word.md
 ---
 
 **1st-level evocation**

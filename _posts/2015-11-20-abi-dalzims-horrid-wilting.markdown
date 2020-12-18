@@ -1,8 +1,14 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Abi-Dalzim’s Horrid Wilting"
 date: 2015-11-20
 sources: [EE.15, Xanathar.150]
+=======
+title:  "Abi Dalzim's Horrid Wilting"
+date:   2015-11-20
+source: EE.15
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level8, necromancy]
 ---
 
@@ -16,6 +22,10 @@ tags: [sorcerer, wizard, level8, necromancy]
 
 **Duration**: Instantaneous
 
+<<<<<<< HEAD
 You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.
 
 Nonmagical plants in the area that aren’t creatures, such as trees and shrubs, wither and die instantly.
+=======
+You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366

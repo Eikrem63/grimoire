@@ -2,7 +2,11 @@
 layout: post
 title:  "Blinding Smite"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.219]
+=======
+source: PHB.219
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [paladin, level3, evocation]
 ---
 
@@ -16,6 +20,6 @@ tags: [paladin, level3, evocation]
 
 **Duration**: Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during this spell’s duration, your weapon flares with bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends.
+The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends.
 
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.

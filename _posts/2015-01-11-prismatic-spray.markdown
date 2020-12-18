@@ -2,7 +2,11 @@
 layout: post
 title:  "Prismatic Spray"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.267, SRD.170]
+=======
+source: PHB.267
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [sorcerer, wizard, level7, evocation]
 ---
 

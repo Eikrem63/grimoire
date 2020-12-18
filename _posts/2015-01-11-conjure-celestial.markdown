@@ -2,7 +2,11 @@
 layout: post
 title:  "Conjure Celestial"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.225, SRD.127]
+=======
+source: PHB.225
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [cleric, level7, conjuration]
 ---
 

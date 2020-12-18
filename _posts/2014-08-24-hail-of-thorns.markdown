@@ -2,7 +2,11 @@
 layout: post
 title:  "Hail of Thorns"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.249]
+=======
+source: PHB.249
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [ranger, level1, conjuration]
 ---
 

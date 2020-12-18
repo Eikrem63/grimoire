@@ -2,7 +2,11 @@
 layout: post
 title:  "Finger of Death"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.241, SRD.144]
+=======
+source: PHB.241
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [sorcerer, warlock, wizard, level7, necromancy]
 ---
 

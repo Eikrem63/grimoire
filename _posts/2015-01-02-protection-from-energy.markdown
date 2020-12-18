@@ -2,8 +2,13 @@
 layout: post
 title:  "Protection from Energy"
 date:   2015-01-02
+<<<<<<< HEAD
 sources: [PHB.270, SRD.173]
 tags: [artificer, cleric, druid, paladin (ancients), paladin (vengeance), ranger, sorcerer, wizard, level3, abjuration]
+=======
+source: PHB.270
+tags: [cleric, druid, ranger, sorcerer, wizard, level3, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level abjuration**

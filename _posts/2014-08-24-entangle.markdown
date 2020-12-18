@@ -2,7 +2,11 @@
 layout: post
 title:  "Entangle"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.238, SRD.140]
+=======
+source: PHB.238
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, level1, conjuration]
 ---
 

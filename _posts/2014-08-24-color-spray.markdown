@@ -2,7 +2,11 @@
 layout: post
 title:  "Color Spray"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.222, SRD.125]
+=======
+source: PHB.222
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level1, illusion]
 ---
 

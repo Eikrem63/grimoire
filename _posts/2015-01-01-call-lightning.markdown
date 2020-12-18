@@ -2,8 +2,13 @@
 layout: post
 title:  "Call Lightning"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.220, SRD.123]
 tags: [cleric (tempest), druid, level3, conjuration]
+=======
+source: PHB.220
+tags: [druid, level3, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level conjuration**
@@ -16,10 +21,14 @@ tags: [cleric (tempest), druid, level3, conjuration]
 
 **Duration**: Concentration, up to 10 minutes
 
+<<<<<<< HEAD
 A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can’t see a point in the air where the storm cloud could appear (for example, if you are in a room that can’t accommodate the cloud).
+=======
+A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 
-If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell’s damage increases by 1d10.
+If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.

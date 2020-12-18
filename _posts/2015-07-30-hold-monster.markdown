@@ -2,8 +2,13 @@
 layout: post
 title: "Hold Monster"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.251, SRD.154]
 tags: [bard, cleric (war), paladin (redemption), paladin (vengeance), sorcerer, warlock, wizard, level5, enchantment]
+=======
+source: PHB.251
+tags: [bard, sorcerer, warlock, wizard, level5, enchantment]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level enchantment**

@@ -3,6 +3,7 @@ layout: post
 title: "Stoneskin"
 date: 2015-07-30
 <<<<<<< HEAD
+<<<<<<< HEAD
 sources: [PHB.278]
 tags: [cleric (war), druid, monk (four elements), paladin (conquest, ancients), sorcerer, ranger, wizard, level4, abjuration]
 =======
@@ -13,6 +14,10 @@ tags: [cleric (war), druid, monk (four elements), paladin (ancients), paladin (c
 =======
 tags: [artificer, cleric (war), druid, monk (four elements), paladin (ancients), paladin (conquest), paladin (redemption), sorcerer, ranger, wizard, level4, abjuration]
 >>>>>>> 684ca8c8e0de816f25b91529678c80560d1728ea
+=======
+source: PHB.278
+tags: [druid, sorcerer, ranger, wizard, level4, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **4th-level abjuration**

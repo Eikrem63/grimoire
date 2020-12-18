@@ -2,7 +2,11 @@
 layout: post
 title:  "Protection from Evil and Good"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.270, SRD.173]
+=======
+source: PHB.270
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [cleric, paladin, warlock, wizard, level1, abjuration]
 ---
 

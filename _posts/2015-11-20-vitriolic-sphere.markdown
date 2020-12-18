@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Vitriolic Sphere"
+<<<<<<< HEAD
 date: 2015-11-20
 sources: [EE.23, Xanathar.170]
+=======
+date:   2015-11-20
+source: EE.23
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level4, evocation]
 ---
 

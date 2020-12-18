@@ -2,8 +2,13 @@
 layout: post
 title: "Flame Strike"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.242, SRD.145]
 tags: [cleric, paladin (devotion), warlock (fiend), level5, evocation]
+=======
+source: PHB.242
+tags: [cleric, level5, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level evocation**

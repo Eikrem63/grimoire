@@ -2,7 +2,11 @@
 layout: post
 title:  "Shapechange"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.274, SRD.178]
+=======
+source: PHB.274
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [druid, wizard, level9, transmutation]
 ---
 

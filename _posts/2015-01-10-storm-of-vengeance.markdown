@@ -2,7 +2,11 @@
 layout: post
 title:  "Storm of Vengeance"
 date:   2015-01-10
+<<<<<<< HEAD
 sources: [PHB.279, SRD.183]
+=======
+source: PHB.279
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [druid, level9, conjuration]
 ---
 

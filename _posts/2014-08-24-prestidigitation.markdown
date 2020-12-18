@@ -2,8 +2,13 @@
 layout: post
 title:  "Prestidigitation"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.267, SRD.170]
 tags: [artificer, bard, sorcerer, warlock, wizard, cantrip, transmutation]
+=======
+source: PHB.267
+tags: [bard, sorcerer, warlock, wizard, cantrip, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Transmutation cantrip**

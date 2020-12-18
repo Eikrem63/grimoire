@@ -2,8 +2,13 @@
 layout: post
 title: "Commune"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.223, SRD.126]
 tags: [cleric, level5, ritual, divination]
+=======
+source: PHB.223
+tags: [cleric, level5, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level divination (ritual)**

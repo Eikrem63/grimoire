@@ -2,8 +2,13 @@
 layout: post
 title:  "Detect Poison and Disease"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.231, SRD.134]
 tags: [cleric, druid, paladin, ranger, level1, ritual, divination]
+=======
+source: PHB.231
+tags: [cleric, druid, paladin, ranger, level1, divination]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **1st-level divination (ritual)**

@@ -2,8 +2,13 @@
 layout: post
 title: "Water Walk"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.287, SRD.191]
 tags: [artificer, cleric, druid, ranger, sorcerer, level3, ritual, transmutation]
+=======
+source: PHB.287
+tags: [cleric, druid, ranger, sorcerer, level2, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level transmutation (ritual)**

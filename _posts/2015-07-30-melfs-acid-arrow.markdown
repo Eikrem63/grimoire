@@ -2,8 +2,13 @@
 layout: post
 title: "Melf’s Acid Arrow"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.259]
 tags: [artificer (alchemist), druid (swamp), wizard, level2, evocation]
+=======
+source: PHB.259
+tags: [wizard, level2, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level evocation**

@@ -1,9 +1,16 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Leomund’s Tiny Hut"
 date: 2015-01-02
 sources: [PHB.255]
 tags: [bard, wizard, level3, ritual, evocation]
+=======
+title:  "Leomund's Tiny Hut"
+date:   2015-01-01
+source: PHB.255
+tags: [bard, wizard, level3, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level evocation (ritual)**
@@ -18,6 +25,6 @@ tags: [bard, wizard, level3, ritual, evocation]
 
 A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
 
-Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
+Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can't extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.

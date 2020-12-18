@@ -2,7 +2,11 @@
 layout: post
 title:  "Regenerate"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.271, SRD.174]
+=======
+source: PHB.271
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags:   [bard, cleric, druid, level7, transmutation]
 ---
 

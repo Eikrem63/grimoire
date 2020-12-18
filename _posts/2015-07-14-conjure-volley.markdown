@@ -2,7 +2,11 @@
 layout: post
 title: "Conjure Volley"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.226]
+=======
+source: PHB.226
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [ranger, level5, conjuration]
 ---
 

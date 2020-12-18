@@ -1,8 +1,14 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Aganazzar’s Scorcher"
 date: 2015-11-19
 sources: [EE.15, Xanathar.150]
+=======
+title:  "Aganazzar's Scorcher"
+date:   2015-11-19
+source: EE.15
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [sorcerer, wizard, level2, evocation]
 ---
 
@@ -12,7 +18,7 @@ tags: [sorcerer, wizard, level2, evocation]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a red dragon’s scale)
+**Components**: V, S, M (a red dragon's scale)
 
 **Duration**: Instantaneous
 

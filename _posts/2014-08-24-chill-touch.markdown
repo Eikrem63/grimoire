@@ -2,8 +2,13 @@
 layout: post
 title:  "Chill Touch"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.221, SRD.124]
 tags: [elf (mul daya), sorcerer, warlock, wizard, cantrip, necromancy]
+=======
+source: PHB.221
+tags: [sorcerer, warlock, wizard, cantrip, necromancy]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Necromancy cantrip**

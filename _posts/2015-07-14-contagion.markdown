@@ -2,8 +2,13 @@
 layout: post
 title: "Contagion"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.227, SRD.129]
 tags: [cleric, druid, paladin (oathbreaker), warlock (undying), level5, necromancy]
+=======
+source: PHB.227
+tags: [cleric, druid, level5, necromancy]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level necromancy**
@@ -28,7 +33,11 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Flesh Rot.** The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
+<<<<<<< HEAD
 **Mindfire.** The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *[Confusion](confusion)* spell during combat.
+=======
+**Mindfire.** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *[confusion](confusion "confusion (lvl 4)")* spell during combat.
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 
 **Seizure.** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 

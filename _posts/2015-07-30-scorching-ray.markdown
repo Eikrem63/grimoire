@@ -2,8 +2,13 @@
 layout: post
 title: "Scorching Ray"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.273, SRD.176]
 tags: [artificer (artillerist), cleric (light), sorcerer, warlock (fiend), wizard, level2, evocation]
+=======
+source: PHB.273
+tags: [sorcerer, wizard, level2, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level evocation**

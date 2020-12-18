@@ -2,8 +2,13 @@
 layout: post
 title:  "Tenser’s Floating Disk"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.282]
 tags: [wizard, level1, ritual, conjuration]
+=======
+source: PHB.282
+tags: [wizard, level1, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **1st-level conjuration (ritual)**

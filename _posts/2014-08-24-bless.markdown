@@ -2,7 +2,11 @@
 layout: post
 title:  "Bless"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.219, SRD.122]
+=======
+source: PHB.219
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [cleric, paladin, level1, enchantment]
 ---
 

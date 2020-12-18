@@ -2,8 +2,13 @@
 layout: post
 title:  "Resistance"
 date:   2014-08-24
+<<<<<<< HEAD:_posts/2014-08-24-resistance.markdown
 sources: [PHB.272, SRD.175]
 tags: [artificer, cleric, druid, cantrip, abjuration]
+=======
+source: PHB.272
+tags: [cleric, druid, cantrip, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-08-24-resistance.md
 ---
 
 **Abjuration cantrip**

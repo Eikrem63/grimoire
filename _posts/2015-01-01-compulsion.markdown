@@ -2,7 +2,11 @@
 layout: post
 title:  "Compulsion"
 date:   2015-01-01
+<<<<<<< HEAD
 sources: [PHB.224, SRD.126]
+=======
+source: PHB.224
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [bard, level4, enchantment]
 ---
 

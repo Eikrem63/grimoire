@@ -2,9 +2,16 @@
 layout: post
 title: "Shield of Faith"
 date: 2014-08-24
+<<<<<<< HEAD:_posts/2014-08-24-shield-of-faith.markdown
 sources: [PHB.275, SRD.179]
 tags: [cleric, paladin, level1, abjuration]
 ---
+=======
+source: PHB.275
+tags: [cleric, paladin, level1, abjuration]
+
+=======
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366:_posts/2014-08-24-shield-of-faith.md
 
 **1st-level abjuration**
 

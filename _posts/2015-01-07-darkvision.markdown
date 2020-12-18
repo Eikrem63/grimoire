@@ -2,8 +2,13 @@
 layout: post
 title:  "Darkvision"
 date:   2015-01-07
+<<<<<<< HEAD
 sources: [PHB.230, SRD.133]
 tags: [artificer, druid, monk (shadow), ranger, sorcerer, wizard, level2, transmutation]
+=======
+source: PHB.230
+tags: [druid, ranger, sorcerer, wizard, level2, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **2nd-level transmutation**

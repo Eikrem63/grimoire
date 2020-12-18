@@ -2,8 +2,13 @@
 layout: post
 title:  "Ray of Frost"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.271, SRD.174]
 tags: [artificer, sorcerer, wizard, cantrip, evocation]
+=======
+source: PHB.271
+tags: [sorcerer, wizard, cantrip, evocation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **Evocation cantrip**
@@ -18,4 +23,4 @@ tags: [artificer, sorcerer, wizard, cantrip, evocation]
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).

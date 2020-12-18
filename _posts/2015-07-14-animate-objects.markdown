@@ -2,8 +2,13 @@
 layout: post
 title: "Animate Objects"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.213, SRD.116]
 tags: [artificer, bard, cleric (forge), sorcerer, wizard, level5, transmutation]
+=======
+source: PHB.213
+tags: [bard, sorcerer, wizard, level5, transmutation]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level transmutation**

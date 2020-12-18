@@ -2,8 +2,13 @@
 layout: post
 title:  "Resurrection"
 date:   2015-01-11
+<<<<<<< HEAD
 sources: [PHB.272, SRD.175]
 tags:   [bard, cleric, level7, necromancy]
+=======
+source: PHB.272
+tags:   [bard, cleric, druid, level7, necromancy]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **7th-level necromancy**

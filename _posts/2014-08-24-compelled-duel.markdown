@@ -2,7 +2,11 @@
 layout: post
 title:  "Compelled Duel"
 date:   2014-08-24
+<<<<<<< HEAD
 sources: [PHB.224]
+=======
+source: PHB.224
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [paladin, level1, enchantment]
 ---
 

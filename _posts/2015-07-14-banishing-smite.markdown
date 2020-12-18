@@ -2,8 +2,13 @@
 layout: post
 title: "Banishing Smite"
 date: 2015-07-14
+<<<<<<< HEAD
 sources: [PHB.216]
 tags: [artificer (battle smith), paladin, level5, abjuration]
+=======
+source: PHB.216
+tags: [paladin, level5, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level abjuration**

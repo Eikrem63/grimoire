@@ -2,8 +2,13 @@
 layout: post
 title: "Mass Cure Wounds"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.258, SRD.162]
 tags: [artificer (battle smith), bard, cleric, druid, level5, evocation]
+=======
+source: PHB.258
+tags: [bard, cleric, druid, level5, conjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **5th-level evocation**

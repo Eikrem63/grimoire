@@ -2,8 +2,13 @@
 layout: post
 title: "Glyph of Warding"
 date: 2015-07-30
+<<<<<<< HEAD
 sources: [PHB.245, SRD.149]
 tags: [artificer, bard, cleric, wizard, level3, abjuration]
+=======
+source: PHB.245
+tags: [cleric, wizard, bard, level3, abjuration]
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 ---
 
 **3rd-level abjuration**
@@ -22,7 +27,7 @@ The glyph is nearly invisible and requires a successful Intelligence (Investigat
 
 You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends. 
 
-You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password. 
+You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. 
 
 When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
  

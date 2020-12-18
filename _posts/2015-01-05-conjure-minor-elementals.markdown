@@ -2,7 +2,11 @@
 layout: post
 title:  "Conjure Minor Elementals"
 date:   2015-01-05
+<<<<<<< HEAD
 sources: [PHB.226, SRD.128]
+=======
+source: PHB.226
+>>>>>>> fad25f008430f031f16b0eb4a6b691e869f24366
 tags: [druid, wizard, level4, conjuration]
 ---
 
