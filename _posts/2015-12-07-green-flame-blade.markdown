@@ -2,7 +2,7 @@
 layout: post
 title:  "Green-Flame Blade"
 date:   2015-12-07
-sources: [SCAG.143]
+sources: [SCAG.143, TGE.107]
 tags: [sorcerer, warlock, wizard, cantrip, evocation]
 ---
 
