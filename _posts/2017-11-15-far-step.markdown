@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Far Step"
+<<<<<<< HEAD
 date:   2017-11-15
 <<<<<<< HEAD
 source: Xanathar.155
 =======
+=======
+date: 2017-11-15
+>>>>>>> 82e2fd2b65d6d330d64f080d798362d3700b193a
 sources: [Xanathar.155]
 >>>>>>> 0d941f94c0a31c636bde7edaf8692137d4c15153
 tags: [sorcerer, warlock, wizard, level5, conjuration]
