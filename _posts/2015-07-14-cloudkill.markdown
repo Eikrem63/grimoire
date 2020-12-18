@@ -6,8 +6,12 @@ date: 2015-07-14
 sources: [PHB.222]
 =======
 sources: [PHB.222, SRD.125]
+<<<<<<< HEAD
 >>>>>>> ee57289a7fc6a1312901c9d9ee48a282de5fcd47
 tags: [cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, level5, conjuration]
+=======
+tags: [artificer (alchemist), cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, level5, conjuration]
+>>>>>>> 684ca8c8e0de816f25b91529678c80560d1728ea
 ---
 
 **5th-level conjuration**
