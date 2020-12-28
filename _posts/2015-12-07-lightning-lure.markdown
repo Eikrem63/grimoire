@@ -2,8 +2,8 @@
 layout: post
 title:  "Lightning Lure"
 date:   2015-12-07
-sources: [SCAG.143, TGE.107]
-tags: [sorcerer, warlock, wizard, cantrip, evocation]
+sources: [SCAG.143, TCE.107]
+tags: [artificer, sorcerer, warlock, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**
