@@ -2,8 +2,8 @@
 layout: post
 title: "Continual Flame"
 date: 2015-07-14
-source: PHB.227
-tags: [cleric, wizard, level2, evocation]
+sources: [PHB.227, SRD.130]
+tags: [artificer, cleric, wizard, level2, evocation]
 ---
 
 **2nd-level evocation**
@@ -16,4 +16,4 @@ tags: [cleric, wizard, level2, evocation]
 
 **Duration**: Until dispelled
 
-A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.

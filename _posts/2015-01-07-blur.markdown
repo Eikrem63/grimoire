@@ -2,8 +2,8 @@
 layout: post
 title:  "Blur"
 date:   2015-01-07
-source: PHB.219
-tags: [druid (desert), sorcerer, wizard, level2, illusion]
+sources: [PHB.219, SRD.123]
+tags: [artificer, druid (desert), sorcerer, wizard, level2, illusion]
 ---
 
 **2nd-level illusion**

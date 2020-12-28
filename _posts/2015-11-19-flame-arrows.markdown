@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Flame Arrows"
-date:   2015-11-19
-source: EE.18
-tags: [druid, ranger, sorcerer, wizard, level3, transmutation]
+date: 2015-11-19
+sources: [EE.18, Xanathar.156]
+tags: [artificer, druid, ranger, sorcerer, wizard, level3, transmutation]
 ---
 
 **3rd-level transmutation**

@@ -2,8 +2,8 @@
 layout: post
 title:  "Aura Of Vitality"
 date:   2015-01-01
-source: PHB.216
-tags: [paladin, level3, evocation]
+sources: [PHB.216]
+tags: [artificer (battle smith), paladin, level3, evocation]
 ---
 
 **3rd-level evocation**

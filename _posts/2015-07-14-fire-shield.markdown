@@ -2,8 +2,8 @@
 layout: post
 title: "Fire Shield"
 date: 2015-07-14
-source: PHB.241
-tags: [warlock (fiend), wizard, level4, evocation]
+sources: [PHB.241, SRD.144]
+tags: [artificer (battle smith), warlock (fiend), wizard, level4, evocation]
 ---
 
 **4th-level evocation**

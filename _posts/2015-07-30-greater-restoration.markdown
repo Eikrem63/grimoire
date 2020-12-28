@@ -2,8 +2,8 @@
 layout: post
 title: "Greater Restoration"
 date: 2015-07-30
-source: PHB.246
-tags: [bard, cleric, druid, level5, abjuration]
+sources: [PHB.246, SRD.150]
+tags: [artificer, bard, cleric, druid, level5, abjuration]
 ---
 
 **5th-level abjuration**

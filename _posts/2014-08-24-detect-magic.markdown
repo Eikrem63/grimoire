@@ -2,8 +2,8 @@
 layout: post
 title:  "Detect Magic"
 date:   2014-08-24
-source: PHB.231
-tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
+sources: [PHB.231, SRD.134]
+tags: [artificer, bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
 ---
 
 **1st-level divination (ritual)**

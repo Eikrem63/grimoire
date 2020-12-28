@@ -2,8 +2,8 @@
 layout: post
 title:  "Spare the Dying"
 date:   2014-08-24
-source: PHB.277
-tags: [cleric, cantrip, necromancy]
+sources: [PHB.277, SRD.181]
+tags: [artificer, cleric, cantrip, necromancy]
 ---
 
 **Necromancy cantrip**

@@ -2,8 +2,8 @@
 layout: post
 title: "Spider Climb"
 date: 2015-07-30
-source: PHB.277
-tags: [druid (forest), druid (mountain), druid (underdark), sorcerer, warlock, wizard, level2, transmutation]
+sources: [PHB.277, SRD.182]
+tags: [artificer, druid (forest), druid (mountain), druid (underdark), sorcerer, warlock, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

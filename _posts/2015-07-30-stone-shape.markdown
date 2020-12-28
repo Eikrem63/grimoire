@@ -2,8 +2,8 @@
 layout: post
 title: "Stone Shape"
 date: 2015-07-30
-source: PHB.278
-tags: [cleric, druid, wizard, level4, transmutation]
+sources: [PHB.278, SRD.183]
+tags: [artificer, cleric, druid, wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**
